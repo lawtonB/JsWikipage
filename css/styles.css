@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+.nav {
+  float: left;
+  background-color: black;
+}
+ nav p {
+     color: white;
+ }
+
+ .markdown {
+   height: 50em;
+ }
